@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrkeko87
+- 👋 Hola, me llamo Sergio mi usario es @Mrkeko87
 - 👀 Me interesa la programacion , la IA y el Big Data
 - 🌱 Estoy aprendiendo python....
 
