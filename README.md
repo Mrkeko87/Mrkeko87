@@ -10,7 +10,7 @@ Fundamentos de Machine Learning.
 Análisis de grandes volúmenes de datos.
 Implementación de soluciones basadas en IA y Big Data.
 Programacion en Python
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
 
 🔧 Habilidades técnicas destacadas:
