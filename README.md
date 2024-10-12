@@ -9,7 +9,8 @@ Ahora estoy en proceso de formación intensiva en IA y Big Data, explorando todo
 Fundamentos de Machine Learning.
 Análisis de grandes volúmenes de datos.
 Implementación de soluciones basadas en IA y Big Data.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)Programacion en Python
+Programacion en Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 🔧 Habilidades técnicas destacadas:
