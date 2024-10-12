@@ -1,4 +1,5 @@
 👋 Hola, soy Sergio!
+
 🚀 Después de más de 10 años trabajando como técnico informático , he decidido cambiar mi rumbo profesional y enfocarme en el futuro de la tecnología: Inteligencia Artificial (IA) y Big Data.
 
 💻 Durante mi carrera, he adquirido una sólida experiencia en soporte técnico, gestión de infraestructura y resolución de problemas en entornos industriales asi como el estudio e implementacion de nuevos funcionalidades en Axapta3 y 12. 
