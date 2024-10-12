@@ -1,6 +1,26 @@
-- 👋 Hola, me llamo Sergio mi usario es @Mrkeko87
-- 👀 Me interesa la programacion , la IA y el Big Data
-- 🌱 Estoy aprendiendo python....
+👋 Hola, soy Sergio!
+🚀 Después de más de 10 años trabajando como técnico informático en planta, he decidido cambiar mi rumbo profesional y enfocarme en el futuro de la tecnología: Inteligencia Artificial (IA) y Big Data.
+
+💻 Durante mi carrera, he adquirido una sólida experiencia en soporte técnico, gestión de infraestructura y resolución de problemas en entornos industriales. Ahora estoy en proceso de formación intensiva en IA y Big Data, explorando todo lo relacionado con el análisis de datos, machine learning y tecnologías emergentes.
+
+🌱 Lo que estoy aprendiendo actualmente:
+
+Fundamentos de Machine Learning.
+Análisis de grandes volúmenes de datos.
+Implementación de soluciones basadas en IA y Big Data.
+![PythonPoweredGIF](https://github.com/user-attachments/assets/7b74548f-911f-40db-b85b-ea67be55a277) Programacion en Python
+
+
+🔧 Habilidades técnicas destacadas:
+
+Soporte técnico e infraestructura TI.
+Gestión de sistemas y resolución de problemas complejos.
+Automatización de procesos y optimización de sistemas.
+
+🎯 Mi objetivo es desarrollar y compartir proyectos que apliquen IA y Big Data para resolver problemas reales. ¡Estoy abierto a colaborar y aprender de la comunidad!
+
+💡 ¿Por qué estoy aquí?
+Para compartir mi progreso, proyectos y aprender de la increíble comunidad de GitHub. Estoy en un viaje de transformación, y cada paso en el mundo de IA y Big Data me acerca más a mi meta de especialización en estas áreas clave.
 - [![Static Badge](https://img.shields.io/badge/email%20-%20red?logo=gmail&logoColor=white)](mailto:s.rodrigueznavarro@gmail.com)
 
 <!--
