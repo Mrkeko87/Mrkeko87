@@ -25,13 +25,13 @@ Estudio y mejora de entornos productivos.
 💡 ¿Por qué estoy aquí?
 Para compartir mi progreso, proyectos y aprender de la increíble comunidad de GitHub. Estoy en un viaje de transformación, y cada paso en el mundo de IA y Big Data me acerca más a mi meta de especialización en estas áreas clave.
 
-📧 Contacto
+
 
 - [![Static Badge](https://img.shields.io/badge/email%20-%20red?logo=gmail&logoColor=white)](mailto:s.rodrigueznavarro@gmail.com)
 
 <!--
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-
+📧 Contacto
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrkeko87&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrkeko87&theme=dark&hide_border=false)<br/>
