@@ -1,14 +1,15 @@
 👋 Hola, soy Sergio!
-🚀 Después de más de 10 años trabajando como técnico informático en planta, he decidido cambiar mi rumbo profesional y enfocarme en el futuro de la tecnología: Inteligencia Artificial (IA) y Big Data.
+🚀 Después de más de 10 años trabajando como técnico informático , he decidido cambiar mi rumbo profesional y enfocarme en el futuro de la tecnología: Inteligencia Artificial (IA) y Big Data.
 
-💻 Durante mi carrera, he adquirido una sólida experiencia en soporte técnico, gestión de infraestructura y resolución de problemas en entornos industriales. Ahora estoy en proceso de formación intensiva en IA y Big Data, explorando todo lo relacionado con el análisis de datos, machine learning y tecnologías emergentes.
+💻 Durante mi carrera, he adquirido una sólida experiencia en soporte técnico, gestión de infraestructura y resolución de problemas en entornos industriales asi como el estudio e implementacion de nuevos funcionalidades en Axapta3 y 12. 
+Ahora estoy en proceso de formación intensiva en IA y Big Data, explorando todo lo relacionado con el análisis de datos, machine learning y tecnologías emergentes.
 
 🌱 Lo que estoy aprendiendo actualmente:
 
 Fundamentos de Machine Learning.
 Análisis de grandes volúmenes de datos.
 Implementación de soluciones basadas en IA y Big Data.
-![PythonPoweredGIF](https://github.com/user-attachments/assets/7b74548f-911f-40db-b85b-ea67be55a277) Programacion en Python
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png) Programacion en Python
 
 
 🔧 Habilidades técnicas destacadas:
